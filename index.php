@@ -1,5 +1,5 @@
 <?php 
-	include_once 'libs/smarty/smarty.class.php';
+	include_once 'libs/smarty/Smarty.class.php';
 	
 
 	$smarty = new Smarty();

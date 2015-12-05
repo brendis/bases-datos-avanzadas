@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Document created with online XML Editor http://xmlgrid.net 2015/12/04 21:47:17  -->
+   <Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" version="test attribute" serie="test attribute" folio="test attribute" fecha="test attribute" sello="test attribute" formaDePago="test attribute" noCertificado="test attribute" certificado="test attribute" condicionesDePago="test attribute" subTotal="test attribute" descuento="test attribute" motivoDescuento="test attribute" TipoCambio="test attribute" Moneda="test attribute" total="test attribute" tipoDeComprobante="test attribute" metodoDePago="test attribute" LugarExpedicion="test attribute" NumCtaPago="test attribute" FolioFiscalOrig="test attribute" SerieFolioFiscalOrig="test attribute" FechaFolioFiscalOrig="test attribute" MontoFolioFiscalOrig="test attribute">
+         <Emisor rfc="test attribute" nombre="test attribute">
+               <DomicilioFiscal>test string</DomicilioFiscal>
+               <DomicilioFiscal>test string</DomicilioFiscal>
+               <DomicilioFiscal>test string</DomicilioFiscal>
+               <ExpedidoEn>test string</ExpedidoEn>
+               <ExpedidoEn>test string</ExpedidoEn>
+               <ExpedidoEn>test string</ExpedidoEn>
+         </Emisor>
+         <Emisor rfc="test attribute" nombre="test attribute">
+               <DomicilioFiscal>test string</DomicilioFiscal>
+               <DomicilioFiscal>test string</DomicilioFiscal>
+               <DomicilioFiscal>test string</DomicilioFiscal>
+               <ExpedidoEn>test string</ExpedidoEn>
+               <ExpedidoEn>test string</ExpedidoEn>
+               <ExpedidoEn>test string</ExpedidoEn>
+         </Emisor>
+         <Emisor rfc="test attribute" nombre="test attribute">
+               <DomicilioFiscal>test string</DomicilioFiscal>
+               <DomicilioFiscal>test string</DomicilioFiscal>
+               <DomicilioFiscal>test string</DomicilioFiscal>
+               <ExpedidoEn>test string</ExpedidoEn>
+               <ExpedidoEn>test string</ExpedidoEn>
+               <ExpedidoEn>test string</ExpedidoEn>
+         </Emisor>
+         <Receptor rfc="test attribute" nombre="test attribute">
+               <Domicilio>test string</Domicilio>
+               <Domicilio>test string</Domicilio>
+               <Domicilio>test string</Domicilio>
+         </Receptor>
+         <Receptor rfc="test attribute" nombre="test attribute">
+               <Domicilio>test string</Domicilio>
+               <Domicilio>test string</Domicilio>
+               <Domicilio>test string</Domicilio>
+         </Receptor>
+         <Receptor rfc="test attribute" nombre="test attribute">
+               <Domicilio>test string</Domicilio>
+               <Domicilio>test string</Domicilio>
+               <Domicilio>test string</Domicilio>
+         </Receptor>
+         <Conceptos>
+               <Concepto cantidad="test attribute" unidad="test attribute" noIdentificacion="test attribute" descripcion="test attribute" valorUnitario="test attribute" importe="test attribute">
+                     <InformacionAduanera>test string</InformacionAduanera>
+                     <InformacionAduanera>test string</InformacionAduanera>
+                     <InformacionAduanera>test string</InformacionAduanera>
+               </Concepto>
+               <Concepto cantidad="test attribute" unidad="test attribute" noIdentificacion="test attribute" descripcion="test attribute" valorUnitario="test attribute" importe="test attribute">
+                     <InformacionAduanera>test string</InformacionAduanera>
+                     <InformacionAduanera>test string</InformacionAduanera>
+                     <InformacionAduanera>test string</InformacionAduanera>
+               </Concepto>
+               <Concepto cantidad="test attribute" unidad="test attribute" noIdentificacion="test attribute" descripcion="test attribute" valorUnitario="test attribute" importe="test attribute">
+                     <InformacionAduanera>test string</InformacionAduanera>
+                     <InformacionAduanera>test string</InformacionAduanera>
+                     <InformacionAduanera>test string</InformacionAduanera>
+               </Concepto>
+         </Conceptos>
+         <Conceptos>
+               <Concepto cantidad="test attribute" unidad="test attribute" noIdentificacion="test attribute" descripcion="test attribute" valorUnitario="test attribute" importe="test attribute">
+                     <InformacionAduanera>test string</InformacionAduanera>
+                     <InformacionAduanera>test string</InformacionAduanera>
+                     <InformacionAduanera>test string</InformacionAduanera>
+               </Concepto>
+               <Concepto cantidad="test attribute" unidad="test attribute" noIdentificacion="test attribute" descripcion="test attribute" valorUnitario="test attribute" importe="test attribute">
+                     <InformacionAduanera>test string</InformacionAduanera>
+                     <InformacionAduanera>test string</InformacionAduanera>
+                     <InformacionAduanera>test string</InformacionAduanera>
+               </Concepto>
+               <Concepto cantidad="test attribute" unidad="test attribute" noIdentificacion="test attribute" descripcion="test attribute" valorUnitario="test attribute" importe="test attribute">
+                     <InformacionAduanera>test string</InformacionAduanera>
+                     <InformacionAduanera>test string</InformacionAduanera>
+                     <InformacionAduanera>test string</InformacionAduanera>
+               </Concepto>
+         </Conceptos>
+         <Conceptos>
+               <Concepto cantidad="test attribute" unidad="test attribute" noIdentificacion="test attribute" descripcion="test attribute" valorUnitario="test attribute" importe="test attribute">
+                     <InformacionAduanera>test string</InformacionAduanera>
+                     <InformacionAduanera>test string</InformacionAduanera>
+                     <InformacionAduanera>test string</InformacionAduanera>
+               </Concepto>
+               <Concepto cantidad="test attribute" unidad="test attribute" noIdentificacion="test attribute" descripcion="test attribute" valorUnitario="test attribute" importe="test attribute">
+                     <InformacionAduanera>test string</InformacionAduanera>
+                     <InformacionAduanera>test string</InformacionAduanera>
+                     <InformacionAduanera>test string</InformacionAduanera>
+               </Concepto>
+               <Concepto cantidad="test attribute" unidad="test attribute" noIdentificacion="test attribute" descripcion="test attribute" valorUnitario="test attribute" importe="test attribute">
+                     <InformacionAduanera>test string</InformacionAduanera>
+                     <InformacionAduanera>test string</InformacionAduanera>
+                     <InformacionAduanera>test string</InformacionAduanera>
+               </Concepto>
+         </Conceptos>
+         <Impuestos totalImpuestosRetenidos="test attribute" totalImpuestosTrasladados="test attribute">
+               <Retenciones>
+                     <Retencion impuesto="test attribute" importe="test attribute">test string</Retencion>
+                     <Retencion impuesto="test attribute" importe="test attribute">test string</Retencion>
+                     <Retencion impuesto="test attribute" importe="test attribute">test string</Retencion>
+               </Retenciones>
+               <Retenciones>
+                     <Retencion impuesto="test attribute" importe="test attribute">test string</Retencion>
+                     <Retencion impuesto="test attribute" importe="test attribute">test string</Retencion>
+                     <Retencion impuesto="test attribute" importe="test attribute">test string</Retencion>
+               </Retenciones>
+               <Retenciones>
+                     <Retencion impuesto="test attribute" importe="test attribute">test string</Retencion>
+                     <Retencion impuesto="test attribute" importe="test attribute">test string</Retencion>
+                     <Retencion impuesto="test attribute" importe="test attribute">test string</Retencion>
+               </Retenciones>
+               <Traslados>
+                     <Traslado impuesto="test attribute" tasa="test attribute" importe="test attribute">test string</Traslado>
+                     <Traslado impuesto="test attribute" tasa="test attribute" importe="test attribute">test string</Traslado>
+                     <Traslado impuesto="test attribute" tasa="test attribute" importe="test attribute">test string</Traslado>
+               </Traslados>
+               <Traslados>
+                     <Traslado impuesto="test attribute" tasa="test attribute" importe="test attribute">test string</Traslado>
+                     <Traslado impuesto="test attribute" tasa="test attribute" importe="test attribute">test string</Traslado>
+                     <Traslado impuesto="test attribute" tasa="test attribute" importe="test attribute">test string</Traslado>
+               </Traslados>
+               <Traslados>
+                     <Traslado impuesto="test attribute" tasa="test attribute" importe="test attribute">test string</Traslado>
+                     <Traslado impuesto="test attribute" tasa="test attribute" importe="test attribute">test string</Traslado>
+                     <Traslado impuesto="test attribute" tasa="test attribute" importe="test attribute">test string</Traslado>
+               </Traslados>
+         </Impuestos>
+         <Impuestos totalImpuestosRetenidos="test attribute" totalImpuestosTrasladados="test attribute">
+               <Retenciones>
+                     <Retencion impuesto="test attribute" importe="test attribute">test string</Retencion>
+                     <Retencion impuesto="test attribute" importe="test attribute">test string</Retencion>
+                     <Retencion impuesto="test attribute" importe="test attribute">test string</Retencion>
+               </Retenciones>
+               <Retenciones>
+                     <Retencion impuesto="test attribute" importe="test attribute">test string</Retencion>
+                     <Retencion impuesto="test attribute" importe="test attribute">test string</Retencion>
+                     <Retencion impuesto="test attribute" importe="test attribute">test string</Retencion>
+               </Retenciones>
+               <Retenciones>
+                     <Retencion impuesto="test attribute" importe="test attribute">test string</Retencion>
+                     <Retencion impuesto="test attribute" importe="test attribute">test string</Retencion>
+                     <Retencion impuesto="test attribute" importe="test attribute">test string</Retencion>
+               </Retenciones>
+               <Traslados>
+                     <Traslado impuesto="test attribute" tasa="test attribute" importe="test attribute">test string</Traslado>
+                     <Traslado impuesto="test attribute" tasa="test attribute" importe="test attribute">test string</Traslado>
+                     <Traslado impuesto="test attribute" tasa="test attribute" importe="test attribute">test string</Traslado>
+               </Traslados>
+               <Traslados>
+                     <Traslado impuesto="test attribute" tasa="test attribute" importe="test attribute">test string</Traslado>
+                     <Traslado impuesto="test attribute" tasa="test attribute" importe="test attribute">test string</Traslado>
+                     <Traslado impuesto="test attribute" tasa="test attribute" importe="test attribute">test string</Traslado>
+               </Traslados>
+               <Traslados>
+                     <Traslado impuesto="test attribute" tasa="test attribute" importe="test attribute">test string</Traslado>
+                     <Traslado impuesto="test attribute" tasa="test attribute" importe="test attribute">test string</Traslado>
+                     <Traslado impuesto="test attribute" tasa="test attribute" importe="test attribute">test string</Traslado>
+               </Traslados>
+         </Impuestos>
+         <Impuestos totalImpuestosRetenidos="test attribute" totalImpuestosTrasladados="test attribute">
+               <Retenciones>
+                     <Retencion impuesto="test attribute" importe="test attribute">test string</Retencion>
+                     <Retencion impuesto="test attribute" importe="test attribute">test string</Retencion>
+                     <Retencion impuesto="test attribute" importe="test attribute">test string</Retencion>
+               </Retenciones>
+               <Retenciones>
+                     <Retencion impuesto="test attribute" importe="test attribute">test string</Retencion>
+                     <Retencion impuesto="test attribute" importe="test attribute">test string</Retencion>
+                     <Retencion impuesto="test attribute" importe="test attribute">test string</Retencion>
+               </Retenciones>
+               <Retenciones>
+                     <Retencion impuesto="test attribute" importe="test attribute">test string</Retencion>
+                     <Retencion impuesto="test attribute" importe="test attribute">test string</Retencion>
+                     <Retencion impuesto="test attribute" importe="test attribute">test string</Retencion>
+               </Retenciones>
+               <Traslados>
+                     <Traslado impuesto="test attribute" tasa="test attribute" importe="test attribute">test string</Traslado>
+                     <Traslado impuesto="test attribute" tasa="test attribute" importe="test attribute">test string</Traslado>
+                     <Traslado impuesto="test attribute" tasa="test attribute" importe="test attribute">test string</Traslado>
+               </Traslados>
+               <Traslados>
+                     <Traslado impuesto="test attribute" tasa="test attribute" importe="test attribute">test string</Traslado>
+                     <Traslado impuesto="test attribute" tasa="test attribute" importe="test attribute">test string</Traslado>
+                     <Traslado impuesto="test attribute" tasa="test attribute" importe="test attribute">test string</Traslado>
+               </Traslados>
+               <Traslados>
+                     <Traslado impuesto="test attribute" tasa="test attribute" importe="test attribute">test string</Traslado>
+                     <Traslado impuesto="test attribute" tasa="test attribute" importe="test attribute">test string</Traslado>
+                     <Traslado impuesto="test attribute" tasa="test attribute" importe="test attribute">test string</Traslado>
+               </Traslados>
+         </Impuestos>
+         <Complemento>test string</Complemento>
+         <Complemento>test string</Complemento>
+         <Complemento>test string</Complemento>
+         <Addenda>test string</Addenda>
+         <Addenda>test string</Addenda>
+         <Addenda>test string</Addenda>
+   </Comprobante>
+ 
